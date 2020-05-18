@@ -1,0 +1,10 @@
+C:\Projects\SerialPortConnection\SerialPortConnection\obj\Debug\SerialPortConnection.frmTestSerialPort.resources
+C:\Projects\SerialPortConnection\SerialPortConnection\obj\Debug\SerialPortConnection.Properties.Resources.resources
+C:\Projects\SerialPortConnection\SerialPortConnection\obj\Debug\SerialPortConnection.csproj.GenerateResource.cache
+C:\Projects\SerialPortConnection\SerialPortConnection\obj\Debug\SerialPortConnection.csproj.CoreCompileInputs.cache
+C:\Projects\SerialPortConnection\SerialPortConnection\bin\Debug\SerialPortConnection.exe.config
+C:\Projects\SerialPortConnection\SerialPortConnection\bin\Debug\SerialPortConnection.exe
+C:\Projects\SerialPortConnection\SerialPortConnection\bin\Debug\SerialPortConnection.pdb
+C:\Projects\SerialPortConnection\SerialPortConnection\obj\Debug\SerialPortConnection.exe
+C:\Projects\SerialPortConnection\SerialPortConnection\obj\Debug\SerialPortConnection.pdb
+C:\Projects\SerialPortConnection\SerialPortConnection\obj\Debug\SerialPortConnection.csprojAssemblyReference.cache
